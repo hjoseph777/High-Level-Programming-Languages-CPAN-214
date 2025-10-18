@@ -3,7 +3,7 @@
 **Course:** CPAN 214 - High-Level Programming Languages  
 **Author:** Harry Joseph  
 **Project:** Mini Project - Bank Terminal Simulation  
-**Repository:** [CPAN214-Lab5](https://github.com/hjoseph777/CPAN214-Lab5)
+**Repository:** [CPAN214-Lab5](https://github.com/hjoseph777/High-Level-Programming-Languages-CPAN-214)
 
 [![Python](https://img.shields.io/badge/Python-3.6+-blue.svg)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
