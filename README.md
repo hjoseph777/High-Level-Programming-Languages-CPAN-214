@@ -83,7 +83,7 @@ This project implements a **menu-driven bank terminal simulation** that mimics r
 
 | 📦 **Download Method** | 🔗 **Link** | 📝 **Description** |
 |------------------------|-------------|-------------------|
-| 💾 **ZIP Archive** | [![Download ZIP](https://img.shields.io/badge/Download-MiniProject.zip-blue?style=for-the-badge&logo=download&logoColor=white)](https://github.com/hjoseph777/CPAN214-Lab5/archive/refs/tags/v1.zip) | Complete project package |
+| 💾 **ZIP Archive** | [![Download ZIP](https://img.shields.io/badge/Download-MiniProject.zip-blue?style=for-the-badge&logo=download&logoColor=white)](https://github.com/hjoseph777/High-Level-Programming-Languages-CPAN-214/archive/refs/tags/v1.zip) | Complete project package |
 
 **🚀 After Download:**
 1. 📁 Extract `MiniProject.zip` to your desired folder
