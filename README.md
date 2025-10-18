@@ -55,7 +55,6 @@
 - [🧪 Test Scenarios & Outputs](#-test-scenarios--outputs)
 - [📊 Rubric Compliance](#-rubric-compliance)
 - [🏗️ Code Architecture](#️-code-architecture)
-- [🎯 Learning Outcomes Demonstrated](#-learning-outcomes-demonstrated)
 
 ---
 
