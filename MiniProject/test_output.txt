@@ -1,0 +1,24 @@
+HUMBER BANK TERMINAL - COMPREHENSIVE TEST SUITE
+============================================================
+Testing all scenarios required by the project instructions
+
+============================================================
+TEST SCENARIO: 3 Incorrect PIN Attempts - Should Exit
+============================================================
+SIMULATED INPUTS:
+  1. 1111
+  2. 2222
+  3. 3333
+
+PROGRAM OUTPUT:
+Traceback (most recent call last):
+  File "C:\Users\Owner\High-Level Programming Languages CPAN 214\test_scenarios.py", line 110, in <module>
+    run_all_test_scenarios()
+  File "C:\Users\Owner\High-Level Programming Languages CPAN 214\test_scenarios.py", line 67, in run_all_test_scenarios
+    capture_output(scenario1_inputs, "3 Incorrect PIN Attempts - Should Exit")
+  File "C:\Users\Owner\High-Level Programming Languages CPAN 214\test_scenarios.py", line 52, in capture_output
+    print(output)
+  File "C:\Users\Owner\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f44b' in position 0: character maps to <undefined>
